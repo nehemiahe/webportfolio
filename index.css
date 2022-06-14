@@ -9,22 +9,22 @@
 	background-image: url(./images/imagelandingpage.jpg);
 	background-position: center center;
 	min-height: 100%;
-}
-
-#firstpage {
+	margin: 0;
+	padding: 0;
 	height: 100vh;
 }
 
+
 #firstpagetext {
 	background-color: #99897C;
-	position: relative;
 	font-size: 30px;
 	font-weight: bold;
+	bottom: 50px;
+	position: absolute;
 }
 
 #firstname {
 	font-size: 50px;
-	margin: 15px;
 	margin-left: 0px;
 }
 
@@ -38,7 +38,9 @@
 
 /*SECOND PAGE ADJUSTMENTS*/
 
-
+#secondpage {
+	background-color: #e2d3c5;
+}
 
 #namesignature {
 	border: 0;
@@ -56,4 +58,14 @@
 	font-weight: bold;
 }
 
+/*THIRD PAGE ADJUSTMENTS*/
+#thirdpage {
+	background-color: #f8f7f7;
+}
 
+/*FOURTH PAGE ADJUSTMENTS*/
+#fourthpage {
+	background-color: #e2d3c5;
+}
+
+/*LAST PAGE ADJUSTMENTS*/
