@@ -4,15 +4,56 @@
 	box-sizing: border-box;
 }
 
-
-
-
-
-#landingpage {
-	background-color: white;
-	height: 50vh;
+/*FIRST PAGE ADJUSTMENTS*/
+#firstpage {
+	background-image: url(./images/imagelandingpage.jpg);
+	background-position: center center;
+	min-height: 100%;
 }
 
-#greetings {
-	font-family: 'Caveat' sans-serif;
+#firstpage {
+	height: 100vh;
 }
+
+#firstpagetext {
+	background-color: #99897C;
+	position: relative;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#firstname {
+	font-size: 50px;
+	margin: 15px;
+	margin-left: 0px;
+}
+
+#namepronounce {
+	border: 0px;
+}
+
+#namedefinition {
+	border: 0px;
+}
+
+/*SECOND PAGE ADJUSTMENTS*/
+
+
+
+#namesignature {
+	border: 0;
+	padding: 0;
+}
+
+#idsignature {
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-weight: bold;
+}
+
+
+.reviewers {
+	font-weight: bold;
+}
+
+
