@@ -36,10 +36,14 @@
 	border: 0px;
 }
 
+
+
+
 /*SECOND PAGE ADJUSTMENTS*/
 
 #secondpage {
 	background-color: #e2d3c5;
+	height: 100vh;
 }
 
 #namesignature {
@@ -58,9 +62,16 @@
 	font-weight: bold;
 }
 
+#socialmediaicons {
+	
+}
+
+
+
 /*THIRD PAGE ADJUSTMENTS*/
 #thirdpage {
 	background-color: #f8f7f7;
+	height: 100vh;
 }
 
 /*FOURTH PAGE ADJUSTMENTS*/
@@ -68,4 +79,17 @@
 	background-color: #e2d3c5;
 }
 
+/*FOURTH PAGE ADJUSTMENTS*/
+#fourthpage {
+height: 100%;
+}
+
+
 /*LAST PAGE ADJUSTMENTS*/
+#lastpage {
+	height: 100vh;
+}
+
+.tools {
+	font-family: font-family: 'Caveat', cursive;;
+}
