@@ -63,7 +63,8 @@
 }
 
 #socialmediaicons {
-	
+	position: relative;
+	bottom: 0;
 }
 
 
@@ -88,6 +89,10 @@ height: 100%;
 /*LAST PAGE ADJUSTMENTS*/
 #lastpage {
 	height: 100vh;
+	background-image: url(./images/forlastpage.jpg);
+	background-position: center center;
+	height: 100%;
+	padding-bottom: 50px;
 }
 
 .tools {
