@@ -67,6 +67,9 @@
 	bottom: 0;
 }
 
+#letsconnect {
+	font-size: 30px;
+}
 
 
 /*THIRD PAGE ADJUSTMENTS*/
@@ -74,6 +77,18 @@
 	background-color: #f8f7f7;
 	height: 100vh;
 }
+
+#frontendtools {
+	font-size: 20: px;
+}
+
+#headerngthird {
+	font-family: 'Zilla Slab', serif;
+}
+#footerngthird {
+	font-family: 'Zilla Slab', serif;
+}
+
 
 /*FOURTH PAGE ADJUSTMENTS*/
 #fourthpage {
